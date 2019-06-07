@@ -24,7 +24,7 @@ async function handleRequest(request) {
 
 其中 addEventListener 是绑定事件监听器，当有用户请求 Workers 时，将会触发 fetch 事件，然后会交给 handleRequest 函数处理。
 
-handleRequest 函数在处理完之后，返回一个 Response，也成响应，内容是 Hello world!，状态码是 200。
+handleRequest 函数在处理完之后，返回一个 Response，也叫响应，内容是 Hello world!，状态码是 200。
 
 最终，呈现在网页上的就是 Hello world! 这几个字。
 
