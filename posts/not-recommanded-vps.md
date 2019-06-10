@@ -4,7 +4,7 @@ Smart2Host，罗马尼亚的一家服务商，主要出租 OpenVZ 和 KVM 的服
 
 Tsukaeru，日本的一家服务商，出租 VPS，他们家的面板各种 bug，使用体验极差，VPS 网络并不怎么样，延迟很高，客服回复效率低下，VPS 不提供退款，更换 IP 收费 500 日元。
 
-官网：https://www.tsukaeru.com/
+官网：https://www.tsukaeru.net/
 
 不定期更新。
 
