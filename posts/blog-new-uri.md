@@ -28,6 +28,17 @@ const init = {
 const response = await fetch(url, init);
 ```
 
+增加了翻页功能，每页显示 5 篇文章
+
+```javascript
+if(current_page > 1) {
+    data += `<a href="/?p=${before_page}"><button class="btn btn-default">上一页</button></a>&nbsp; &nbsp;`;
+}
+if(update_i >= 5) {
+    data += `<a href="/?p=${next_page}"><button class="btn btn-default">下一页</button></a>`;
+}
+```
+
 关于本博客模板可访问 https://github.com/kasuganosoras/cloudflare-worker-blog/blob/master/workers-sakurafrp.js 查看。
 
 
