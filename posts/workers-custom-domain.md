@@ -14,6 +14,20 @@ curl https://sh.rustup.rs -sSf | sh
 cargo install wrangler
 ```
 
+安装完成之后要加入到环境变量，编辑 `/etc/profile`，找到 `export PATH=` 这一行，在结尾的 `:$PATH` 前面增加以下内容
+
+```shell
+:$HOME/.cargo/bin
+```
+
+然后看起来应该像是这样：
+
+```shell
+export PATH=/usr/local/php/bin:/usr/local/nginx/sbin:/usr/local/mariadb/bin:$HOME/.cargo/bin:$PATH
+```
+
+最后输入 `source /etc/profile` 即可。
+
 接着我们创建一个项目，名字就叫 test-worker：
 
 ```shell
