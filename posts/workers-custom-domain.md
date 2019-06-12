@@ -1,4 +1,8 @@
-### 创建项目
+Cloudflare 默认会给你一个 workers.dev 域名，对于没有域名的小伙伴来说是个福利。
+
+不过如果你已经有一个域名了，想要作为博客使用怎么办呢？我们一起来看。
+
+### 0x01 创建项目
 
 开始之前，我们检查一下自己是否已经安装了 Wrangler，一般来说是没有的。
 
@@ -44,7 +48,7 @@ vim index.js
 
 修改完之后保存。
 
-### 发布项目
+### 0x02 发布项目
 
 你需要配置你的 Cloudflare 账户信息，首先我们打开 Cloudflare 官网：https://www.cloudflare.com/
 
@@ -90,6 +94,8 @@ type = "webpack"
 wrangler build
 wrangler publish --release
 ```
+
+### 0x03 设置解析
 
 最后一步，增加 DNS 解析，将你设置的域名前缀解析到你的 workers.dev 域名。
 
