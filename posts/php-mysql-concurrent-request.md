@@ -53,6 +53,7 @@ $result = $PortMap->add($port, $intervalPort, $vm->primaryIp);
 上面的这段代码，经过修复后应该是下面这个样子
 
 ```php
+$max = 5; // 最多 5 条映射
 $rs = mysqli_query($conn, "SELECT * FROM `portmap` WHERE `username`='{$username}' AND `vm`='{$vm}'");
 $currentPorts = mysqli_num_rows($rs);
 if($currentPorts >= $max) {
