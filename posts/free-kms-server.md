@@ -18,32 +18,32 @@ slmgr /ato
 slmgr /xpr
 ```
 
-以下是各种操作系统的激活秘钥：
+以下是各种操作系统的激活密钥：
 
 **Windows Server** **版本** **1809**
 
-| **系统版本**              | **激活密钥**                  |
+| 系统版本              | 激活密钥                  |
 | ------------------------- | ----------------------------- |
 | Windows Server Datacenter | 6NMRW-2C8FM-D24W7-TQWMY-CWH2D |
 | Windows Server Standard   | N2KJX-J94YW-TQVFB-DG9YT-724CC |
 
 **Windows Server** **版本** **1803**
 
-| **系统版本**              | **激活密钥**                  |
+| 系统版本              | 激活密钥                  |
 | ------------------------- | ----------------------------- |
 | Windows Server Datacenter | 2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG |
 | Windows Server Standard   | PTXN8-JFHJM-4WC78-MPCBR-9W4KR |
 
 **Windows Server** **版本** **1709**
 
-| **系统版本**              | **激活密钥**                  |
+| 系统版本              | 激活密钥                  |
 | ------------------------- | ----------------------------- |
 | Windows Server Datacenter | 6Y6KB-N82V8-D8CQV-23MJW-BWTG6 |
 | Windows Server Standard   | DPCNP-XQFKJ-BJF7R-FRC8D-GF6G4 |
 
 **Windows Server 2019**
 
-| **系统版本**                   | **激活密钥**                    |
+| 系统版本                   | 激活密钥                    |
 | ------------------------------ | ------------------------------- |
 | Windows Server 2019 Datacenter | WMDGN-G9PQG-XVVXX-R3X43-63DFG   |
 | Windows Server 2019标准版      | N69G4-B89J2-4G8F4-WWYCC-J464C   |
@@ -51,7 +51,7 @@ slmgr /xpr
 
 **Windows Server 2016**
 
-| **系统版本**                   | **激活密钥**                  |
+| 系统版本                   | 激活密钥                  |
 | ------------------------------ | ----------------------------- |
 | Windows Server 2016 Datacenter | CB7KF-BWN84-R7R2Y-793K2-8XDDG |
 | Windows Server 2016 Standard   | WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY |
@@ -59,7 +59,7 @@ slmgr /xpr
 
 **Windows 10**
 
-| **系统版本**            | **激活密钥**                  |
+| 系统版本            | 激活密钥                  |
 | ----------------------- | ----------------------------- |
 | Windows 10 专业版       | W269N-WFGWX-YVC9B-4J6C9-T83GX |
 | Windows 10 专业版 N     | MH37W-N47XK-V7XM9-C7227-GCQG9 |
@@ -76,28 +76,28 @@ slmgr /xpr
 
 **Windows 10 LTSC 2019**
 
-| **系统版本**                  | **激活密钥**                  |
+| 系统版本                  | 激活密钥                  |
 | ----------------------------- | ----------------------------- |
 | Windows 10 企业版 LTSC 2019   | M7XTQ-FN8P6-TTKYV-9D4CC-J462D |
 | Windows 10 企业版 N LTSC 2019 | 92NFX-8DJQP-P6BBQ-THF9C-7CG2H |
 
 **Windows 10 LTSB 2016**
 
-| **系统版本**                  | **激活密钥**                   |
+| 系统版本                  | 激活密钥                   |
 | ----------------------------- | ------------------------------ |
 | Windows 10 企业版 LTSB 2016   | DCFःK-NFMTC-ः88 NJ-PFHPY-QJ4BJ |
 | Windows 10 企业版 N LTSB 2016 | QFFDN-GRT3P-VKWWX-X7T3R-8B639  |
 
 **Windows 10 LTSB 2015**
 
-| **系统版本**                      | **激活密钥**                  |
+| 系统版本                      | 激活密钥                  |
 | --------------------------------- | ----------------------------- |
 | Windows 10 企业版 2015 长期服务   | WNMTR-4C88C-JK8YV-HQ7T2-76DF9 |
 | Windows 10 企业版 2015 长期服务 N | 2F77B-TNFGY-69QQF-B8YKP-D69TJ |
 
 **Windows Server 2012 R2**
 
-| **系统版本**                           | **激活密钥**                  |
+| 系统版本                           | 激活密钥                  |
 | -------------------------------------- | ----------------------------- |
 | Windows Server 2012 R2 Server Standard | D2N9P-3P6X9-2R39C-7RTCD-MDVJX |
 | WindowsServer 2012 R2 Datacenter       | W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9 |
@@ -105,7 +105,7 @@ slmgr /xpr
 
 **Windows Server 2012**
 
-| **系统版本**                            | **激活密钥**                  |
+| 系统版本                            | 激活密钥                  |
 | --------------------------------------- | ----------------------------- |
 | Windows Server 2012                     | BN3D2-R7TKB-3YPBD-8DRP2-27GG4 |
 | Windows Server 2012 N.                  | 8N2M2-HWPGY-7PGT9-HGDD8-GVGGY |
@@ -118,7 +118,7 @@ slmgr /xpr
 
 **Windows Server 2008 R2**
 
-| **系统版本**                                   | **激活密钥**                   |
+| 系统版本                                   | 激活密钥                   |
 | ---------------------------------------------- | ------------------------------ |
 | Windows Server 2008 R2 Web 版                  | 6TPJF-RBVHG-WBW2R-86QPH-6RTM4  |
 | Windows Server 2008 R2 HPC 版                  | TT8MH-CG224-D3D7Q-498W2-9QCTX  |
@@ -129,7 +129,7 @@ slmgr /xpr
 
 **Windows Server 2008**
 
-| **系统版本**                                 | **激活密钥**                  |
+| 系统版本                                 | 激活密钥                  |
 | -------------------------------------------- | ----------------------------- |
 | Windows Web Server 2008                      | WYR28-R7TFJ-3X2YQ-YCY4H-M249D |
 | Windows Server 2008 Standard                 | TM24T-X9RMF-VWXK6-X8JC9-BFGM2 |
@@ -143,7 +143,7 @@ slmgr /xpr
 
 **Windows 8.1**
 
-| **系统版本**         | **激活密钥**                  |
+| 系统版本         | 激活密钥                  |
 | -------------------- | ----------------------------- |
 | Windows 8.1 专业版   | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9 |
 | Windows 8.1 专业版 N | HMCNV-VVBFX-7HMBH-CTY9B-B4FXY |
@@ -152,7 +152,7 @@ slmgr /xpr
 
 **Windows 8**
 
-| **系统版本**       | **激活密钥**                  |
+| 系统版本       | 激活密钥                  |
 | ------------------ | ----------------------------- |
 | Windows 8 专业版   | NG4HW-VH26C-733KW-K6F98-J8CK4 |
 | Windows 8 专业版 N | XCVCF-2NXM9-723PB-MHCB7-2RYQQ |
@@ -161,7 +161,7 @@ slmgr /xpr
 
 **Windows 7**
 
-| **系统版本**       | **激活密钥**                  |
+| 系统版本       | 激活密钥                  |
 | ------------------ | ----------------------------- |
 | Windows 7 专业版   | FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 |
 | Windows 7 专业版 N | MRPKT-YTG23-K7D7T-X2JMM-QY7MG |
@@ -169,4 +169,3 @@ slmgr /xpr
 | Windows7 企业版    | 33PXH-7Y6KF-2VJC9-XBBR8-HVTHH |
 | Windows 7 企业版 N | YDRBP-3D83W-TY26F-D46B2-XCKRJ |
 | Windows 7 企业版 E | C29WB-22CC8-VJ326-GHFJW-H9DH4 |
-
