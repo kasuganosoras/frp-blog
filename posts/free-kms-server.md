@@ -1,5 +1,9 @@
 因为自己开 VPS 要给虚拟机激活 Windows，所以搭了一个 KMS 服务器
 
+> 推荐使用一键快速激活工具，[点击这里下载](https://git.zerodream.net/Akkariin/ZeroKMS/raw/branch/master/ZeroKMS.cmd)
+>
+> 打开后右键另存为到任意位置，然后双击运行即可使用
+
 各位如果有需要也可以使用，以下是激活方法：
 
 首先打开命令提示符，开始菜单 -> 输入 `cmd` -> 回车，然后输入以下命令进行激活：
@@ -24,38 +28,38 @@ slmgr /xpr
 
 | 系统版本              | 激活密钥                  |
 | ------------------------- | ----------------------------- |
-| Windows Server Datacenter | 6NMRW-2C8FM-D24W7-TQWMY-CWH2D |
-| Windows Server Standard   | N2KJX-J94YW-TQVFB-DG9YT-724CC |
+| Windows Server 数据中心版 | 6NMRW-2C8FM-D24W7-TQWMY-CWH2D |
+| Windows Server 标准版   | N2KJX-J94YW-TQVFB-DG9YT-724CC |
 
 **Windows Server** **版本** **1803**
 
 | 系统版本              | 激活密钥                  |
 | ------------------------- | ----------------------------- |
-| Windows Server Datacenter | 2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG |
-| Windows Server Standard   | PTXN8-JFHJM-4WC78-MPCBR-9W4KR |
+| Windows Server 数据中心版 | 2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG |
+| Windows Server 标准版   | PTXN8-JFHJM-4WC78-MPCBR-9W4KR |
 
 **Windows Server** **版本** **1709**
 
 | 系统版本              | 激活密钥                  |
 | ------------------------- | ----------------------------- |
-| Windows Server Datacenter | 6Y6KB-N82V8-D8CQV-23MJW-BWTG6 |
-| Windows Server Standard   | DPCNP-XQFKJ-BJF7R-FRC8D-GF6G4 |
+| Windows Server 数据中心版 | 6Y6KB-N82V8-D8CQV-23MJW-BWTG6 |
+| Windows Server 标准版 | DPCNP-XQFKJ-BJF7R-FRC8D-GF6G4 |
 
 **Windows Server 2019**
 
 | 系统版本                   | 激活密钥                    |
 | ------------------------------ | ------------------------------- |
-| Windows Server 2019 Datacenter | WMDGN-G9PQG-XVVXX-R3X43-63DFG   |
-| Windows Server 2019标准版      | N69G4-B89J2-4G8F4-WWYCC-J464C   |
-| Windows Server 2019 Essentials | WVDHN-86M7X-466 P 6-VHXV7-YY726 |
+| Windows Server 2019 数据中心版 | WMDGN-G9PQG-XVVXX-R3X43-63DFG   |
+| Windows Server 2019 标准版     | N69G4-B89J2-4G8F4-WWYCC-J464C   |
+| Windows Server 2019 基础版 | WVDHN-86M7X-466 P 6-VHXV7-YY726 |
 
 **Windows Server 2016**
 
 | 系统版本                   | 激活密钥                  |
 | ------------------------------ | ----------------------------- |
-| Windows Server 2016 Datacenter | CB7KF-BWN84-R7R2Y-793K2-8XDDG |
-| Windows Server 2016 Standard   | WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY |
-| Windows Server 2016 Essentials | JCKRF-N37P4-C2D82-9YXRT-4M63B |
+| Windows Server 2016 数据中心版 | CB7KF-BWN84-R7R2Y-793K2-8XDDG |
+| Windows Server 2016 标准版   | WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY |
+| Windows Server 2016 基础版 | JCKRF-N37P4-C2D82-9YXRT-4M63B |
 
 **Windows 10**
 
@@ -85,36 +89,36 @@ slmgr /xpr
 
 | 系统版本                  | 激活密钥                   |
 | ----------------------------- | ------------------------------ |
-| Windows 10 企业版 LTSB 2016   | DCFःK-NFMTC-ः88 NJ-PFHPY-QJ4BJ |
+| Windows 10 企业版 LTSB 2016   | DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ |
 | Windows 10 企业版 N LTSB 2016 | QFFDN-GRT3P-VKWWX-X7T3R-8B639  |
 
 **Windows 10 LTSB 2015**
 
 | 系统版本                      | 激活密钥                  |
 | --------------------------------- | ----------------------------- |
-| Windows 10 企业版 2015 长期服务   | WNMTR-4C88C-JK8YV-HQ7T2-76DF9 |
-| Windows 10 企业版 2015 长期服务 N | 2F77B-TNFGY-69QQF-B8YKP-D69TJ |
+| Windows 10 企业版 LTSB 2015 | WNMTR-4C88C-JK8YV-HQ7T2-76DF9 |
+| Windows 10 企业版 N LTSB 2015 | 2F77B-TNFGY-69QQF-B8YKP-D69TJ |
 
 **Windows Server 2012 R2**
 
 | 系统版本                           | 激活密钥                  |
 | -------------------------------------- | ----------------------------- |
-| Windows Server 2012 R2 Server Standard | D2N9P-3P6X9-2R39C-7RTCD-MDVJX |
-| WindowsServer 2012 R2 Datacenter       | W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9 |
-| WindowsServer 2012 R2 Essentials       | KNC87-3J2TX-XB4WP-VCPJV-M4FWM |
+| Windows Server 2012 R2 标准版 | D2N9P-3P6X9-2R39C-7RTCD-MDVJX |
+| Windows Server 2012 R2 数据中心版     | W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9 |
+| Windows Server 2012 R2 基础版      | KNC87-3J2TX-XB4WP-VCPJV-M4FWM |
 
 **Windows Server 2012**
 
 | 系统版本                            | 激活密钥                  |
 | --------------------------------------- | ----------------------------- |
 | Windows Server 2012                     | BN3D2-R7TKB-3YPBD-8DRP2-27GG4 |
-| Windows Server 2012 N.                  | 8N2M2-HWPGY-7PGT9-HGDD8-GVGGY |
+| Windows Server 2012 N                  | 8N2M2-HWPGY-7PGT9-HGDD8-GVGGY |
 | Windows Server 2012 单语言版            | 2WN2H-YGCQR-KFX6K-CD6TF-84YXQ |
 | Windows Server 2012 特定国家/地区版     | 4K36P-JN4VD-GDC6V-KDT89-DYFKP |
-| Windows Server 2012 Server Standard     | XC9B7-NBPP2-83J2H-RHMBY-92BT4 |
-| Windows Server 2012 MultiPoint Standard | HM7DN-YVMH3-46JC3-XYTG7-CYQJJ |
-| Windows Server 2012 MultiPoint Premium  | XNH6W-2V9GX-RGJ4K-Y8X6F-QGJ2G |
-| Windows Server 2012 Datacenter          | 48HP8-DN98B-MYWDG-T2DCC-8W83P |
+| Windows Server 2012 标准版 | XC9B7-NBPP2-83J2H-RHMBY-92BT4 |
+| Windows Server 2012 MultiPoint 标准版 | HM7DN-YVMH3-46JC3-XYTG7-CYQJJ |
+| Windows Server 2012 MultiPoint 专业版  | XNH6W-2V9GX-RGJ4K-Y8X6F-QGJ2G |
+| Windows Server 2012 数据中心版         | 48HP8-DN98B-MYWDG-T2DCC-8W83P |
 
 **Windows Server 2008 R2**
 
@@ -122,24 +126,24 @@ slmgr /xpr
 | ---------------------------------------------- | ------------------------------ |
 | Windows Server 2008 R2 Web 版                  | 6TPJF-RBVHG-WBW2R-86QPH-6RTM4  |
 | Windows Server 2008 R2 HPC 版                  | TT8MH-CG224-D3D7Q-498W2-9QCTX  |
-| WindowsServer 2008 R2标准版                    | YC6KT-GKW9T-YTKYR-T4X34，R7VHC |
-| WindowsServer 2008 R2 企业版                   | 489J6-VHDMP-X63PK-3K798-CPX3Y  |
-| WindowsServer 2008 R2数据中心                  | 74YFP-3QFB3-KQT8W-PMXWJ-7M648  |
-| 面向基于 Itanium 系统的 Windows Server 2008 R2 | GT63C-RJFQ3-4GMB6-BRFB9-CB83V  |
+| Windows Server 2008 R2 标准版                  | YC6KT-GKW9T-YTKYR-T4X34，R7VHC |
+| Windows Server 2008 R2 企业版                  | 489J6-VHDMP-X63PK-3K798-CPX3Y  |
+| Windows Server 2008 R2 数据中心                | 74YFP-3QFB3-KQT8W-PMXWJ-7M648  |
+| Windows Server 2008 R2 Itanium 版 | GT63C-RJFQ3-4GMB6-BRFB9-CB83V  |
 
 **Windows Server 2008**
 
 | 系统版本                                 | 激活密钥                  |
 | -------------------------------------------- | ----------------------------- |
-| Windows Web Server 2008                      | WYR28-R7TFJ-3X2YQ-YCY4H-M249D |
-| Windows Server 2008 Standard                 | TM24T-X9RMF-VWXK6-X8JC9-BFGM2 |
-| 无 Hyper-V 的 Windows Server 2008 Standard   | W7VD6-7JFBR-RX26B-YKQ3Y-6FFFJ |
+| Windows Server 2008 Web 版            | WYR28-R7TFJ-3X2YQ-YCY4H-M249D |
+| Windows Server 2008 标准版        | TM24T-X9RMF-VWXK6-X8JC9-BFGM2 |
+| Windows Server 2008 标准版（无 Hyper-V） | W7VD6-7JFBR-RX26B-YKQ3Y-6FFFJ |
 | Windows Server 2008 企业版                   | YQGMW-MPWTJ-34KDK-48M3W-X4Q6V |
-| 无 Hyper-V 的 Windows Server 2008 企业版     | 39BXF-X8Q23-P2WWT-38T2F-G3FPG |
-| Windows Server 2008 HPC                      | RCTX3-KWVHP-BR6TB-RB6DM-6X7HP |
-| Windows Server 2008 Datacenter               | 7M67G-PC374-GR742-YH8V4-TCBY3 |
-| 无 Hyper-V 的 Windows Server 2008 Datacenter | 22XQ2-VRXRG-P8D42-K34TD-G3QQC |
-| 面向基于 Itanium 系统的 Windows Server 2008  | 4DWFP-JF3DJ-B7DTH-78FJB-PDRHK |
+| Windows Server 2008 企业版（无 Hyper-V） | 39BXF-X8Q23-P2WWT-38T2F-G3FPG |
+| Windows Server 2008 HPC 版                   | RCTX3-KWVHP-BR6TB-RB6DM-6X7HP |
+| Windows Server 2008 数据中心版              | 7M67G-PC374-GR742-YH8V4-TCBY3 |
+| Windows Server 2008 数据中心版（无 Hyper-V） | 22XQ2-VRXRG-P8D42-K34TD-G3QQC |
+| Windows Server 2008 Itanium 版 | 4DWFP-JF3DJ-B7DTH-78FJB-PDRHK |
 
 **Windows 8.1**
 
